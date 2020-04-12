@@ -4,4 +4,5 @@ public class Address {
     private String name;
     private String province;
     private String city;
+    private String street;
 }
