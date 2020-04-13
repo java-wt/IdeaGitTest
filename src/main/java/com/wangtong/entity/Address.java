@@ -7,4 +7,5 @@ public class Address {
     private String street;
     //private String phone;
     private String email;
+    private boolean status;
 }
